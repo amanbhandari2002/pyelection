@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# importing librarys
 import gobject
 import gtk
 import gtk.glade
